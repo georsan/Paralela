@@ -1,4 +1,4 @@
-ultiplicacionMatrices/img.png)# Paralela
+# Paralela
 Codigo para multiplicar matrices con npi
 
 # Correr codigo
